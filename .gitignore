@@ -1,3 +1,5 @@
 env/
 data/
 /home/piotr/projects/leaf-frames/settings.yaml
+secrets.env
+*.key

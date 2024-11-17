@@ -18,3 +18,5 @@ In the original training data folder there are three types of data:
 Git to follow the code
 DagsHub to version the data (?)
 MLFLOW to track experiments and models.
+
+84adedcafeccca42fe8d588dc6f22049519cfe02
